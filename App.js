@@ -17,7 +17,7 @@ function App() {
    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
     
-  <img id='logo' src={logo} alt="harry potter" style={{ width: '19px '  , }}/>
+  <img id='logo' src={logo}  style={{ width: '19px '  , }}/>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -49,7 +49,7 @@ function App() {
 </form>
 </nav>
 <div id='belt'></div>
-<img id='home' src={home} alt="harry potter" style={{ width: '900px '  , }}/>
+<img id='home' src={home}  style={{ width: '900px '  , }}/>
 <h1 id='new'>New</h1>
 <h1 id='iphone'>MacBook Pro 13”</h1>
 <h1 id='pro'>Pro everywhere.</h1>
@@ -57,18 +57,18 @@ function App() {
 
 <p>Learn more</p>
   
-<img id='pc1' src={pc1} alt="harry potter" style={{ width: '95px '  , }}/>
+<img id='pc1' src={pc1}  style={{ width: '95px '  , }}/>
 
-<img id='pc2' src={pc2} alt="harry potter" style={{ width: '95px '  , }}/>
+<img id='pc2' src={pc2} style={{ width: '95px '  , }}/>
 
-<img id='pc3' src={pc3} alt="harry potter" style={{ width: '95px '  , }}/>
+<img id='pc3' src={pc3} style={{ width: '95px '  , }}/>
 
-<img id='pc4' src={pc4} alt="harry potter" style={{ width: '95px '  , }}/>
+<img id='pc4' src={pc4}  style={{ width: '95px '  , }}/>
 
-<img id='pc5' src={pc5} alt="harry potter" style={{ width: '95px '  , }}/>
-<img id='pc6' src={pc6} alt="harry potter" style={{ width: '95px '  , }}/>
-<img id='pc7' src={pc7} alt="harry potter" style={{ width: '95px '  , }}/>
-<img id='pc8' src={pc8} alt="harry potter" style={{ width: '95px '  , }}/>
+<img id='pc5' src={pc5}  style={{ width: '95px '  , }}/>
+<img id='pc6' src={pc6}  style={{ width: '95px '  , }}/>
+<img id='pc7' src={pc7}  style={{ width: '95px '  , }}/>
+<img id='pc8' src={pc8}  style={{ width: '95px '  , }}/>
 <h1 id='word'>New
 MacBook Pro 13”
 Pro anywhere.</h1>
